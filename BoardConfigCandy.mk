@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-# Boardconfig for lineage_bramble
--include device/google/redbull/BoardConfigLineage.mk
+# Boardconfig for candy_bramble
+-include device/google/redbull/BoardConfigCandy.mk
