@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-$(call inherit-product, device/google/redbull/device-lineage.mk)
+$(call inherit-product, device/google/redbull/device-aicp.mk)
 
 $(call inherit-product-if-exists, vendor/google/bramble/bramble-vendor.mk)
